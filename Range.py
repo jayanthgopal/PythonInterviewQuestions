@@ -10,4 +10,4 @@ def get_range(nums):
 
 
 numbers = [10, 60, 23, 47, 35]
-print(get_range(numbers))
+print(get_range(numbers)) 
